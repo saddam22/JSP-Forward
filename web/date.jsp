@@ -1,0 +1,1 @@
+<p style="color: orange; font-size: 48px; text-align: center;">Today's date: <%= (new java.util.Date()).toLocaleString()%></p>
